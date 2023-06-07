@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I’m a software developer<br>🌱 I’m currently learning JS<br>
+😎 I’m a software developer<br>🌱 I’m currently learning JS and Node<br>
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-No momento estudo Análise e Desenvolvimento de Sistemas, meu atual objetivo é aprimorar minhas habilidades em Java/Sprint.
+No momento estudo Análise e Desenvolvimento de Sistemas, meu atual objetivo é aprimorar minhas habilidades em Java/Spring.
 
 
 ## 🌐 Socials:

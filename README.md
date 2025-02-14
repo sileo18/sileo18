@@ -1,5 +1,5 @@
 # 💫 About Me:
-No momento estudo Análise e Desenvolvimento de Sistemas, meu atual objetivo é aprimorar minhas habilidades em Java/Spring.
+Olá meu nome é Lucas, curso Análise e Desenvolvimento de Sistemas e sou um desenvolvedor Java.
 
 
 ## 🌐 Socials:

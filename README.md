@@ -6,6 +6,8 @@ Olá meu nome é Lucas, curso Análise e Desenvolvimento de Sistemas e sou um de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-antonio-toledo-sileo-b42593237/](https://www.linkedin.com/in/lucas-antonio-toledo-sileo-b42593237/)) 
 
 
+## 🔨 Tecnologias e Ferramentes:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)

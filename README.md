@@ -1,12 +1,12 @@
-## 🌟 Lucas Sileo | Desenvolvedor Backend
+## 🌟 Lucas Sileo | Desenvolvedor Fullstack
 
 Olá, seja bem-vindo(a) ao meu GitHub! 👋
-Sou Lucas, desenvolvedor backend com paixão por criar aplicações eficientes, escaláveis e com uma experiência de usuário incrível. Trabalho com tecnologias modernas, como Java, SQL, React e estou sempre em busca de novas soluções para resolver problemas complexos.
+Sou Lucas, desenvolvedor fullstack com paixão por criar aplicações eficientes, escaláveis e com uma experiência de usuário incrível. Trabalho com tecnologias modernas, como Java, SQL, React e estou sempre em busca de novas soluções para resolver problemas complexos.
 
 ## 🚀 Minhas principais habilidades
 
 Linguagens: Java, TypeScript, HTML5, CSS3
-Frameworks e Bibliotecas: Spring, React, Tailwind,
+Frameworks e Bibliotecas: Spring, React, Tailwind, Vite, Next
 Ferramentas de Desenvolvimento: Git e Docker
 Metodologias: Scrum e Kanban
 Criação de APIs: Restful APIs, Auth c/ JWT, Exceções

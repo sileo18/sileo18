@@ -25,7 +25,7 @@ Docker:
 
 ## 📊 Estatísticas do GitHubEstatísticas do GitHub
 
-(https://github-readme-stats.vercel.app/api?username=sileo18&show_icons=true&theme=radical)
+![Sileo18 GitHub stats](https://github-readme-stats.vercel.app/api?username=sileo18&show_icons=true&theme=radical)
 
 
 ## 🌐 Socials:

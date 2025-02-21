@@ -5,23 +5,23 @@ Sou Lucas, desenvolvedor fullstack com paixão por criar aplicações eficientes
 
 ## 🚀 Minhas principais habilidades
 
-**Linguagens**: Java, TypeScript, HTML5, CSS3
-**Frameworks e Biblioteca**: Spring, React, Tailwind, Vite, Next
-**Ferramentas de Desenvolvimento**: Git e Docker
-**Metodologias**: Scrum e Kanban
-**Criação de APIs**: Restful APIs, Auth c/ JWT, Exceções
+- **Linguagens**: Java, TypeScript, HTML5, CSS3
+- **Frameworks e Biblioteca**: Spring, React, Tailwind, Vite, Next
+- **Ferramentas de Desenvolvimento**: Git e Docker
+- **Metodologias**: Scrum e Kanban
+- **Criação de APIs**: Restful APIs, Auth c/ JWT, Exceções
 
 ## 🛠 Ferramentas que eu uso no dia a dia 
 
-**IntelliJ e VSCODE**: Meus ambientes de desenvolvimento favoritos 
-**DBeaver**: Para analisar meus banco de dados de forma mais efeciente 
-**Insomnia**: Para testar APIs e quando no front garantir integração efeciente
-**Git & GitHub**: Controle de versão e colaboração em projetos 
+- **IntelliJ e VSCODE**: Meus ambientes de desenvolvimento favoritos 
+- **DBeaver**: Para analisar meus banco de dados de forma mais efeciente 
+- **Insomnia**: Para testar APIs e quando no front garantir integração efeciente
+- **Git & GitHub**: Controle de versão e colaboração em projetos 
 
 ## 🌱 O que estou aprendendo Atualmente, estou aprimorando minhas habilidades em:
 
-**Estrutura de Dados**: Estudo para comprender melhor algoritmos, o que é fundamental para otimiza-los e melhorar a eficiência das aplicações.
-**Docker**: Para criar ambientes de desenvolvimento consistentes, facilitando a colaboração entre equipes e a integração contínua.
+- **Estrutura de Dados**: Estudo para comprender melhor algoritmos, o que é fundamental para otimiza-los e melhorar a eficiência das aplicações.
+- **Docker**: Para criar ambientes de desenvolvimento consistentes, facilitando a colaboração entre equipes e a integração contínua.
 
 ## 📊 Estatísticas do GitHub
 

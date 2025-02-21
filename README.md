@@ -23,13 +23,13 @@ Git & GitHub: Controle de versão e colaboração em projetos
 Estrutura de Dados:
 Docker:
 
-## 📊 Estatísticas do GitHubEstatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 ![Sileo18 GitHub stats](https://github-readme-stats.vercel.app/api?username=sileo18&show_icons=true&theme=radical)
 
+📫 Entre em contato comigo
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-antonio-toledo-sileo-b42593237/](https://www.linkedin.com/in/lucas-antonio-toledo-sileo-b42593237/)) 
-
+LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucas-antonio-toledo-sileo-b42593237/](https://www.linkedin.com/in/lucas-antonio-toledo-sileo-b42593237/)) 
+E-mail: [lucastoledo358@gmail.com]
 
 

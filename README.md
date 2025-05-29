@@ -5,9 +5,9 @@ Sou Lucas, desenvolvedor fullstack com paixão por criar aplicações eficientes
 
 ## 🚀 Minhas principais habilidades
 
-- **Linguagens**: Java, TypeScript, HTML5, CSS3
-- **Frameworks e Biblioteca**: Spring, React, Tailwind, Vite, Next
-- **Ferramentas de Desenvolvimento**: Git e Docker
+- **Linguagens**: C#,Java, SQL, HTML, CSS3
+- **Frameworks e Biblioteca**: .NET, Spring, React, Tailwind, Vite, Next
+- **Ferramentas de Desenvolvimento**: Git, Docker e Redis
 - **Metodologias**: Scrum e Kanban
 - **Criação de APIs**: Restful APIs, Auth c/ JWT, Exceções
 
@@ -20,8 +20,7 @@ Sou Lucas, desenvolvedor fullstack com paixão por criar aplicações eficientes
 
 ## 🌱 O que estou aprendendo Atualmente, estou aprimorando minhas habilidades em:
 
-- **Estrutura de Dados**: Estudo para comprender melhor algoritmos, o que é fundamental para otimiza-los e melhorar a eficiência das aplicações.
-- **Docker**: Para criar ambientes de desenvolvimento consistentes, facilitando a colaboração entre equipes e a integração contínua.
+- **REDIS**: Ferramenta de caching.
 
 ## 📊 Estatísticas do GitHub
 
